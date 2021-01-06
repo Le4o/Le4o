@@ -2,7 +2,7 @@
 
 ### Hi, I'm Leo ✌
 I'm a computer engineering student in Salvador, Brazil
-- 🔭 I’m currently a intern on [SENAI CIMATEC](http://www.senaicimatec.com.br/)
+- 🔭 I’m currently a intern at [SENAI CIMATEC](http://www.senaicimatec.com.br/) in web development
 - 🌱 Learning all about [Typescript](https://www.typescriptlang.org/) and [GraphQl](https://graphql.org/) 
 - 📎 I use daily `.js` `.py` `.ai` `.yaml`
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/leonardo-andrade-santana-940a38172/)
